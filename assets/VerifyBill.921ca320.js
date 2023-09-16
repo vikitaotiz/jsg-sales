@@ -1,0 +1,1 @@
+import{c1 as a,aJ as r,a6 as t,a7 as s,Q as c}from"./index.c8a14f3d.js";const o={},n={class:"flex flex-center"};function l(e,f){return r(),t("div",n,[s("h1",null,c(e.$route.path),1)])}var _=a(o,[["render",l]]);export{_ as default};
